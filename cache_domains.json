@@ -121,6 +121,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "chromeos",
+			"description": "URLs for ChromeOS updates",
+			"domain_files": ["chromeos.txt"]
 		}
 	]
 }
